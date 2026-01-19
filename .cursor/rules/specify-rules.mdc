@@ -1,0 +1,29 @@
+﻿# fitness-app Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2026-01-13
+
+## Active Technologies
+
+- JavaScript/ES6+ (React 19+) + React 19+, Vite, Firebase SDK (Authentication, Firestore), React Router v6 (001-user-auth)
+
+## Project Structure
+
+```text
+src/
+tests/
+```
+
+## Commands
+
+npm test; npm run lint
+
+## Code Style
+
+JavaScript/ES6+ (React 19+): Follow standard conventions
+
+## Recent Changes
+
+- 001-user-auth: Added JavaScript/ES6+ (React 19+) + React 19+, Vite, Firebase SDK (Authentication, Firestore), React Router v6
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->
