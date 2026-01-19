@@ -1,7 +1,7 @@
 # Tasks: Workout Domain
 
 **Input**: Design documents from `/specs/010-workout-domain/`
-**Prerequisites**: plan.md (required), spec.md (required), segment-formats.md, timer-model.md, fatigue-stamins.md
+**Prerequisites**: plan.md (required), spec.md (required), segment-formats.md, timer-model.md, fatigue-stamina.md
 
 **Tests**: Tests are OPTIONAL and not included in this task list. Add test tasks if TDD approach is desired.
 

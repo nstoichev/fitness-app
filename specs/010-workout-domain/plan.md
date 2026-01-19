@@ -50,7 +50,7 @@ specs/010-workout-domain/
 ├── spec.md              # Feature specification
 ├── segment-formats.md   # Segment format definitions
 ├── timer-model.md       # Timer generation rules
-└── fatigue-stamins.md   # Fatigue and stamina model
+└── fatigue-stamina.md   # Fatigue and stamina model
 ```
 
 ### Source Code (repository root)
